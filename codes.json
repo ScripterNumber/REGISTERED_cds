@@ -10,9 +10,5 @@
     "NEWSPVK2YEAR": {
         "type": "coins",
         "amount": 3000
-    },
-    "MABOY2": {
-        "type": "coins",
-        "amount": 122
     }
 }
