@@ -14,9 +14,5 @@
     "MABOY": {
         "type": "coins",
         "amount": 12213
-    },
-    "MABOY2": {
-        "type": "callback",
-        "callback": "function(Player)\n    local playerData = Player:FindFirstChild(\"PlayerData\")\n    if playerData then\n        print('213')\n    end\nend"
     }
 }
