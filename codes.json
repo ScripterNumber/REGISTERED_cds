@@ -14,5 +14,9 @@
     "MABOY": {
         "type": "coins",
         "amount": 12213
+    },
+    "MABOY2": {
+        "type": "coins",
+        "amount": 122
     }
 }
